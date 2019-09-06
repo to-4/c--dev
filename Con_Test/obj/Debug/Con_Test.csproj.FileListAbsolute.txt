@@ -1,0 +1,7 @@
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\bin\Debug\Con_Test.exe.config
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\bin\Debug\Con_Test.exe
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\bin\Debug\Con_Test.pdb
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\obj\Debug\Con_Test.csprojAssemblyReference.cache
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\obj\Debug\Con_Test.csproj.CoreCompileInputs.cache
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\obj\Debug\Con_Test.exe
+C:\Users\ogawa\Documents\c_sharp-dev\Con_Test\obj\Debug\Con_Test.pdb
